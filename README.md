@@ -19,12 +19,15 @@
 
 ## 🧰 Tecnologias & Ferramentas
 
-| **Linguagens** | **Frameworks e Bibliotecas** | **Bancos de Dados** | **Ferramentas** | **Ambientes & IDEs** |
-|--|--|--|--|--|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30" title="IntelliJ"/> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> |  | <img src="https://simpleicons.org/icons/h2database.svg" width="30" title="H2 Database"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> | <img src="https://simpleicons.org/icons/apachenetbeanside.svg" width="30" title="Netbeans"/> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/> |  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/> | |
+| **Linguagens**                                        | **Frameworks e Bibliotecas**                                 | **Bancos de Dados**                                   | **Ferramentas**                                   | **Ambientes & IDEs** |
+|--                                                     |--                                                            |--                                                     |--                                                 |--                                                                      |
+| <img src="icons/html5.svg" width="30" title="HTML5"/> | <img src="icons/spring.svg" width="30" title="Spring Boot"/> | <img src="icons/mysql.svg" width="30" title="MySQL"/> | <img src="icons/git.svg" width="30" title="Git"/> | <img src="icons/icons8-visual-studio.svg" width="30" title="VS Code"/> |
+| <img src="icons/css.svg" width="30" title="CSS"/>     | <img src="icons/react.svg" width="30" title="React"/>        | <img src="icons/postgresql.svg" width="30" title="PostgreSQL"/> | <img src="icons/github.svg" width="30" title="GitHub"/> | <img src="icons/intellijidea.svg" width="30" title="IntelliJ"/> |
+| <img src="icons/javascript.svg" width="30" title="JavaScript"/> |                                                    | <img src="icons/h2database.svg" width="30" title="H2 Database"/> | <img src="icons/postman.svg" width="30" title="Postman"/> | <img src="icons/apachenetbeanside.svg" width="30" title="Netbeans"/> |
+| <img src="icons/java.svg" width="30" title="Java"/> |                                                                |                                                                  | <img src="icons/figma.svg" width="30" title="Figma"/> |                                                                          |
+| <img src="icons/csharp.svg" width="30" title="C#"/> | <img src="icons/angular.svg" width="30" title="Angular"/>   |                                                                  |                                                          |                                                                          |
+| <img src="icons/php.svg" width="30" title="PHP"/>   |
+
 
 ---
 
