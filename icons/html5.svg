@@ -1,14 +1,29 @@
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="30" height="30">
   <title>HTML5</title>
+  <defs>
+    <!-- Gradiente para light mode -->
+    <linearGradient id="grad-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e34f26" />
+      <stop offset="100%" stop-color="#ff5722" />
+    </linearGradient>
+
+    <!-- Gradiente para dark mode -->
+    <linearGradient id="grad-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#61dafb" />
+      <stop offset="100%" stop-color="#9c27b0" />
+    </linearGradient>
+  </defs>
+
   <style>
     path {
-      fill: #e34f26;
+      fill: url(#grad-light);
     }
     @media (prefers-color-scheme: dark) {
       path {
-        fill: #61dafb;
+        fill: url(#grad-dark);
       }
     }
   </style>
+
   <path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/>
 </svg>
