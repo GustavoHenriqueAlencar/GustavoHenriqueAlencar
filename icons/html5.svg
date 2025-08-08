@@ -2,11 +2,11 @@
   <title>HTML5</title>
   <style>
     path {
-      fill: #e34f26; /* Light mode (laranja HTML5) */
+      fill: #e34f26;
     }
     @media (prefers-color-scheme: dark) {
       path {
-        fill: #61dafb; /* Dark mode (azul React) */
+        fill: #61dafb;
       }
     }
   </style>
